@@ -17,7 +17,7 @@
           <styles xmi:type="notation:TextStyle" xmi:id="_uDHrEQmNEeuhmudv_mZG2A"/>
           <styles xmi:type="notation:LineTypeStyle" xmi:id="_uDHrEgmNEeuhmudv_mZG2A"/>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uDHrEwmNEeuhmudv_mZG2A" x="4438" width="20954" height="17778"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uDHrEwmNEeuhmudv_mZG2A" x="4755" y="951" width="20954" height="14921"/>
         </children>
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_FTkvQAmNEeuhmudv_mZG2A" element="_FSfxMAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
           <children xmi:type="notation:DecorationNode" xmi:id="_FT0m4AmNEeuhmudv_mZG2A" type="ImageCompartment">
@@ -1119,9 +1119,6 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Realization" xmi:id="_YmL8gAmaEeuhmudv_mZG2A" supplier="_k6QCEAmNEeuhmudv_mZG2A" client="_mpi1cAmNEeuhmudv_mZG2A"/>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_UYrUoA8IEeu10up-ESM24g" name="Login">
-      <ownedComment xmi:id="_5kSIQA8LEeu10up-ESM24g" annotatedElement="_UYrUoA8IEeu10up-ESM24g">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, users can log into the system.s&lt;/span>&lt;/p></body>
-      </ownedComment>
       <include xmi:id="_c_jq4A8IEeu10up-ESM24g" addition="_gIRg0AmNEeuhmudv_mZG2A"/>
       <extensionPoint xmi:id="_Bjj94A8KEeu10up-ESM24g" name="ExtensionPoint1"/>
     </packagedElement>
@@ -1158,5 +1155,4 @@
   <Default:Documentation xmi:id="_18oKsAmdEeuhmudv_mZG2A" base_Comment="_18m8kAmdEeuhmudv_mZG2A"/>
   <Default:Documentation xmi:id="_4JqC8AmdEeuhmudv_mZG2A" base_Comment="_4Jo00AmdEeuhmudv_mZG2A"/>
   <Default:Documentation xmi:id="_6r0dsAmdEeuhmudv_mZG2A" base_Comment="_6rz2oAmdEeuhmudv_mZG2A"/>
-  <Default:Documentation xmi:id="_5kVyoA8LEeu10up-ESM24g" base_Comment="_5kSIQA8LEeu10up-ESM24g"/>
 </xmi:XMI>
