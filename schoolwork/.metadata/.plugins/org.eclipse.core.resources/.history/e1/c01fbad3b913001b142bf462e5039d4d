@@ -17,7 +17,7 @@
           <styles xmi:type="notation:TextStyle" xmi:id="_uDHrEQmNEeuhmudv_mZG2A"/>
           <styles xmi:type="notation:LineTypeStyle" xmi:id="_uDHrEgmNEeuhmudv_mZG2A"/>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uDHrEwmNEeuhmudv_mZG2A" x="4438" width="18385" height="13657"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uDHrEwmNEeuhmudv_mZG2A" x="4438" width="20954" height="17778"/>
         </children>
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_FTkvQAmNEeuhmudv_mZG2A" element="_FSfxMAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
           <children xmi:type="notation:DecorationNode" xmi:id="_FT0m4AmNEeuhmudv_mZG2A" type="ImageCompartment">
@@ -87,7 +87,27 @@
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_SrhAwQmNEeuhmudv_mZG2A" type="Name"/>
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_SrhAwgmNEeuhmudv_mZG2A" type="Parent"/>
           <children xmi:type="notation:ListCompartment" xmi:id="_Srhn0AmNEeuhmudv_mZG2A" visible="false" type="Extension_Points"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SrfyoQmNEeuhmudv_mZG2A" x="15533" y="1902"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SrfyoQmNEeuhmudv_mZG2A" x="15533" y="2219"/>
+        </children>
+        <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_T7py8AmNEeuhmudv_mZG2A" element="_T7mvoAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+          <children xmi:type="notation:DecorationNode" xmi:id="_T7rBEAmNEeuhmudv_mZG2A" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_T7rBEQmNEeuhmudv_mZG2A" width="2216" height="1322"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T7rBEgmNEeuhmudv_mZG2A" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T7roIAmNEeuhmudv_mZG2A" type="Name"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_T7roIQmNEeuhmudv_mZG2A" type="Parent"/>
+          <children xmi:type="notation:ListCompartment" xmi:id="_T7roIgmNEeuhmudv_mZG2A" visible="false" type="Extension_Points"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T7py8QmNEeuhmudv_mZG2A" x="12997" y="13314"/>
+        </children>
+        <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_Y5Lc4AmNEeuhmudv_mZG2A" element="_Y5IZkAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+          <children xmi:type="notation:DecorationNode" xmi:id="_Y5MD8AmNEeuhmudv_mZG2A" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_Y5MD8QmNEeuhmudv_mZG2A" width="2216" height="1322"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Y5MD8gmNEeuhmudv_mZG2A" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Y5MD8wmNEeuhmudv_mZG2A" type="Name"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Y5MrAAmNEeuhmudv_mZG2A" type="Parent"/>
+          <children xmi:type="notation:ListCompartment" xmi:id="_Y5MrAQmNEeuhmudv_mZG2A" visible="false" type="Extension_Points"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Y5Lc4QmNEeuhmudv_mZG2A" x="16484" y="13948"/>
         </children>
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_atsugAmNEeuhmudv_mZG2A" element="_atprMAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
           <children xmi:type="notation:DecorationNode" xmi:id="_att8oAmNEeuhmudv_mZG2A" type="ImageCompartment">
@@ -119,6 +139,16 @@
           <children xmi:type="notation:ListCompartment" xmi:id="_di7PMAmNEeuhmudv_mZG2A" visible="false" type="Extension_Points"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_di5aAQmNEeuhmudv_mZG2A" x="12046" y="1902"/>
         </children>
+        <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_e2izMAmNEeuhmudv_mZG2A" element="_e2gW8AmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+          <children xmi:type="notation:DecorationNode" xmi:id="_e2jaQAmNEeuhmudv_mZG2A" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_e2jaQQmNEeuhmudv_mZG2A" width="2216" height="1322"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_e2kBUAmNEeuhmudv_mZG2A" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_e2kBUQmNEeuhmudv_mZG2A" type="Name"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_e2kBUgmNEeuhmudv_mZG2A" type="Parent"/>
+          <children xmi:type="notation:ListCompartment" xmi:id="_e2koYAmNEeuhmudv_mZG2A" visible="false" type="Extension_Points"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e2izMQmNEeuhmudv_mZG2A" x="19020" y="10461"/>
+        </children>
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_gIT9EAmNEeuhmudv_mZG2A" element="_gIRg0AmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
           <children xmi:type="notation:DecorationNode" xmi:id="_gIUkIAmNEeuhmudv_mZG2A" type="ImageCompartment">
             <layoutConstraint xmi:type="notation:Size" xmi:id="_gIUkIQmNEeuhmudv_mZG2A" width="2216" height="1322"/>
@@ -127,7 +157,7 @@
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_gIVLMAmNEeuhmudv_mZG2A" type="Name"/>
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_gIVLMQmNEeuhmudv_mZG2A" type="Parent"/>
           <children xmi:type="notation:ListCompartment" xmi:id="_gIVLMgmNEeuhmudv_mZG2A" visible="false" type="Extension_Points"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gIT9EQmNEeuhmudv_mZG2A" x="19020" y="9510"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gIT9EQmNEeuhmudv_mZG2A" x="22190" y="10461"/>
         </children>
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_k6iV8AmNEeuhmudv_mZG2A" element="_k6QCEAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
           <children xmi:type="notation:DecorationNode" xmi:id="_k6i9AAmNEeuhmudv_mZG2A" type="ImageCompartment">
@@ -195,7 +225,7 @@
             <children xmi:type="notation:ListCompartment" xmi:id="__p8X0AmNEeuhmudv_mZG2A" type="FromConstraintCompartment"/>
             <layoutConstraint xmi:type="notation:Location" xmi:id="__p7wwgmNEeuhmudv_mZG2A" y="1411"/>
           </children>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="__po10QmNEeuhmudv_mZG2A" points="[467, 47, -2835, -1091]$[1923, 47, -1379, -1091]$[1923, 1317, -1379, 179]$[3332, 1317, 30, 179]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="__po10QmNEeuhmudv_mZG2A" points="[467, 47, -3152, 177]$[3650, 47, 31, 177]"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_3YM4MAmaEeuhmudv_mZG2A" id="(0.0798004987531172,0.32223903177004537)"/>
         </edges>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_Ap6nEAmOEeuhmudv_mZG2A" element="_Apw2EAmOEeuhmudv_mZG2A" source="_mplRsAmNEeuhmudv_mZG2A" target="_KK1ZIAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
@@ -236,7 +266,7 @@
             <children xmi:type="notation:ListCompartment" xmi:id="_AqAtsgmOEeuhmudv_mZG2A" type="FromConstraintCompartment"/>
             <layoutConstraint xmi:type="notation:Location" xmi:id="_AqAtsQmOEeuhmudv_mZG2A" y="1411"/>
           </children>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ap6nEQmOEeuhmudv_mZG2A" points="[467, -132, -3116, 880]$[1924, -132, -1659, 880]$[1924, -906, -1659, 106]$[3368, -906, -215, 106]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ap6nEQmOEeuhmudv_mZG2A" points="[467, -271, -4182, 575]$[4073, -271, -576, 575]"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HmAjkAmbEeuhmudv_mZG2A" id="(0.08550330353672755,0.3744326777609682)"/>
         </edges>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_BkTLsAmOEeuhmudv_mZG2A" element="_BkIzoAmOEeuhmudv_mZG2A" source="_mplRsAmNEeuhmudv_mZG2A" target="_IruW0AmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
@@ -277,7 +307,7 @@
             <children xmi:type="notation:ListCompartment" xmi:id="_BkVA6gmOEeuhmudv_mZG2A" type="FromConstraintCompartment"/>
             <layoutConstraint xmi:type="notation:Location" xmi:id="_BkVA6QmOEeuhmudv_mZG2A" y="1411"/>
           </children>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BkTLsQmOEeuhmudv_mZG2A" points="[467, -271, -7529, 575]$[1431, -271, -6565, 575]$[1431, -2493, -6565, -1647]$[7996, -2493, 0, -1647]$[7996, -1507, 0, -661]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BkTLsQmOEeuhmudv_mZG2A" points="[467, -588, -7529, 258]$[1431, -588, -6565, 258]$[1431, -2493, -6565, -1647]$[7996, -2493, 0, -1647]$[7996, -1507, 0, -661]"/>
         </edges>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_FsAn8AmOEeuhmudv_mZG2A" element="_Fr0asAmOEeuhmudv_mZG2A" source="_k6iV8AmNEeuhmudv_mZG2A" target="_Mn4qYAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_FsAn8gmOEeuhmudv_mZG2A" type="NameLabel">
@@ -357,7 +387,47 @@
             <children xmi:type="notation:ListCompartment" xmi:id="_GU_6kgmOEeuhmudv_mZG2A" type="FromConstraintCompartment"/>
             <layoutConstraint xmi:type="notation:Location" xmi:id="_GU_6kQmOEeuhmudv_mZG2A" y="1411"/>
           </children>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GU7CEQmOEeuhmudv_mZG2A" points="[-126, -715, -14880, 5203]$[-126, -3119, -14880, 2799]$[14859, -3119, 105, 2799]$[14859, -5313, 105, 605]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GU7CEQmOEeuhmudv_mZG2A" points="[-126, -715, -14880, 4886]$[-126, -3119, -14880, 2482]$[14859, -3119, 105, 2482]$[14859, -4996, 105, 605]"/>
+        </edges>
+        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_Hfv2cAmOEeuhmudv_mZG2A" element="_HfmFcAmOEeuhmudv_mZG2A" source="_k6iV8AmNEeuhmudv_mZG2A" target="_Y5Lc4AmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+          <children xmi:type="notation:DecorationNode" xmi:id="_HfxEkAmOEeuhmudv_mZG2A" type="NameLabel">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_HfxEkgmOEeuhmudv_mZG2A" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_HfxEkwmOEeuhmudv_mZG2A" type="Name"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HfxEkQmOEeuhmudv_mZG2A" y="-247"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_HfxElAmOEeuhmudv_mZG2A" visible="false" type="ToMultiplicityLabel" element="_Hfpv0AmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_HfxroAmOEeuhmudv_mZG2A" type="ToMultiplicity"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_HfxElQmOEeuhmudv_mZG2A" y="529"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_HfxroQmOEeuhmudv_mZG2A" visible="false" type="ToRoleLabel" element="_Hfpv0AmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_HfxrowmOEeuhmudv_mZG2A" type="ToRole"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_HfxrogmOEeuhmudv_mZG2A" y="-530"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_HfxrpAmOEeuhmudv_mZG2A" visible="false" type="FromMultiplicityLabel" element="_HfnTkAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_HfySsAmOEeuhmudv_mZG2A" type="FromMultiplicity"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_HfxrpQmOEeuhmudv_mZG2A" y="529"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_HfySsQmOEeuhmudv_mZG2A" visible="false" type="FromRoleLabel" element="_HfnTkAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_HfySswmOEeuhmudv_mZG2A" type="FromRole"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_HfySsgmOEeuhmudv_mZG2A" y="-530"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_HfyStAmOEeuhmudv_mZG2A" type="ToQualifierLabel" element="_Hfpv0AmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_Hfy5wAmOEeuhmudv_mZG2A" type="QualifierCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_HfyStQmOEeuhmudv_mZG2A" y="-247"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Hfy5wQmOEeuhmudv_mZG2A" type="FromQualifierLabel" element="_HfnTkAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_Hfy5wwmOEeuhmudv_mZG2A" type="QualifierCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Hfy5wgmOEeuhmudv_mZG2A" y="-247"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Hfy5xAmOEeuhmudv_mZG2A" type="ToConstraintLabel" element="_Hfpv0AmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:ListCompartment" xmi:id="_Hfzg0AmOEeuhmudv_mZG2A" type="ToConstraintCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Hfy5xQmOEeuhmudv_mZG2A" y="1411"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Hfzg0QmOEeuhmudv_mZG2A" type="FromConstraintLabel" element="_HfnTkAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:ListCompartment" xmi:id="_Hfzg0wmOEeuhmudv_mZG2A" type="FromConstraintCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Hfzg0gmOEeuhmudv_mZG2A" y="1411"/>
+          </children>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HfwdgAmOEeuhmudv_mZG2A" points="[-126, 1191, -16166, -4303]$[-126, 7993, -16166, 2499]$[16040, 7993, 0, 2499]$[16040, 6155, 0, 661]"/>
         </edges>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_KbtRQAmOEeuhmudv_mZG2A" element="_KbkuYAmOEeuhmudv_mZG2A" source="_k6iV8AmNEeuhmudv_mZG2A" target="_LdvygAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_Kbt4UAmOEeuhmudv_mZG2A" type="NameLabel">
@@ -440,6 +510,46 @@
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Mf26UQmOEeuhmudv_mZG2A" points="[467, 56, -3364, -735]$[1462, 56, -2369, -735]$[1462, 1373, -2369, 582]$[3764, 1373, -67, 582]"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_T0rf4AmbEeuhmudv_mZG2A" id="(0.04363636363636364,0.059757942511346446)"/>
         </edges>
+        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_NIuRIAmOEeuhmudv_mZG2A" element="_NIj5EAmOEeuhmudv_mZG2A" source="_k6iV8AmNEeuhmudv_mZG2A" target="_T7py8AmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+          <children xmi:type="notation:DecorationNode" xmi:id="_NIu4MAmOEeuhmudv_mZG2A" type="NameLabel">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_NIu4MgmOEeuhmudv_mZG2A" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_NIu4MwmOEeuhmudv_mZG2A" type="Name"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NIu4MQmOEeuhmudv_mZG2A" y="-247"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_NIu4NAmOEeuhmudv_mZG2A" visible="false" type="ToMultiplicityLabel" element="_NIoKgAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_NIvfQAmOEeuhmudv_mZG2A" type="ToMultiplicity"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_NIu4NQmOEeuhmudv_mZG2A" y="529"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_NIvfQQmOEeuhmudv_mZG2A" visible="false" type="ToRoleLabel" element="_NIoKgAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_NIvfQwmOEeuhmudv_mZG2A" type="ToRole"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_NIvfQgmOEeuhmudv_mZG2A" y="-530"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_NIvfRAmOEeuhmudv_mZG2A" visible="false" type="FromMultiplicityLabel" element="_NImVUAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_NIvfRgmOEeuhmudv_mZG2A" type="FromMultiplicity"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_NIvfRQmOEeuhmudv_mZG2A" y="529"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_NIwGUAmOEeuhmudv_mZG2A" visible="false" type="FromRoleLabel" element="_NImVUAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_NIwGUgmOEeuhmudv_mZG2A" type="FromRole"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_NIwGUQmOEeuhmudv_mZG2A" y="-530"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_NIwGUwmOEeuhmudv_mZG2A" type="ToQualifierLabel" element="_NIoKgAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_NIwtYAmOEeuhmudv_mZG2A" type="QualifierCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_NIwGVAmOEeuhmudv_mZG2A" y="-247"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_NIwtYQmOEeuhmudv_mZG2A" type="FromQualifierLabel" element="_NImVUAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_NIwtYwmOEeuhmudv_mZG2A" type="QualifierCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_NIwtYgmOEeuhmudv_mZG2A" y="-247"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_NIwtZAmOEeuhmudv_mZG2A" type="ToConstraintLabel" element="_NIoKgAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:ListCompartment" xmi:id="_NIwtZgmOEeuhmudv_mZG2A" type="ToConstraintCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_NIwtZQmOEeuhmudv_mZG2A" y="1411"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_NIwtZwmOEeuhmudv_mZG2A" type="FromConstraintLabel" element="_NImVUAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:ListCompartment" xmi:id="_NIxUcAmOEeuhmudv_mZG2A" type="FromConstraintCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_NIwtaAmOEeuhmudv_mZG2A" y="1411"/>
+          </children>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_NIuRIQmOEeuhmudv_mZG2A" points="[-126, 1191, -12467, -4303]$[-126, 5314, -12467, -180]$[11068, 5314, -1273, -180]"/>
+        </edges>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_NyltgAmOEeuhmudv_mZG2A" element="_NydxsAmOEeuhmudv_mZG2A" source="_k6iV8AmNEeuhmudv_mZG2A" target="_atsugAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_NymUkAmOEeuhmudv_mZG2A" type="NameLabel">
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_NymUkgmOEeuhmudv_mZG2A" type="Stereotype"/>
@@ -518,7 +628,7 @@
             <children xmi:type="notation:ListCompartment" xmi:id="_PoIS2AmOEeuhmudv_mZG2A" type="FromConstraintCompartment"/>
             <layoutConstraint xmi:type="notation:Location" xmi:id="_PoIS1wmOEeuhmudv_mZG2A" y="1411"/>
           </children>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_PoFPgQmOEeuhmudv_mZG2A" points="[-126, 1191, -14158, 452]$[-126, 3231, -14158, 2492]$[14126, 3231, 94, 2492]$[14126, 1301, 94, 562]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_PoFPgQmOEeuhmudv_mZG2A" points="[-126, 1191, -14158, 452]$[-126, 3231, -14158, 2492]$[14162, 3231, 130, 2492]$[14162, 1299, 130, 560]"/>
         </edges>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_RYby0AmOEeuhmudv_mZG2A" element="_RYRawAmOEeuhmudv_mZG2A" source="_k6iV8AmNEeuhmudv_mZG2A" target="_di5aAAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_RYdA8AmOEeuhmudv_mZG2A" type="NameLabel">
@@ -560,6 +670,46 @@
           </children>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_RYby0QmOEeuhmudv_mZG2A" points="[-126, -715, -11640, 5203]$[-126, -3119, -11640, 2799]$[11408, -3119, -106, 2799]$[11408, -5260, -106, 658]"/>
         </edges>
+        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TszpMAmOEeuhmudv_mZG2A" element="_TsrtYAmOEeuhmudv_mZG2A" source="_k6iV8AmNEeuhmudv_mZG2A" target="_e2izMAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+          <children xmi:type="notation:DecorationNode" xmi:id="_Ts0QQAmOEeuhmudv_mZG2A" type="NameLabel">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ts0QQgmOEeuhmudv_mZG2A" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ts0QQwmOEeuhmudv_mZG2A" type="Name"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ts0QQQmOEeuhmudv_mZG2A" y="-247"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Ts0QRAmOEeuhmudv_mZG2A" visible="false" type="ToMultiplicityLabel" element="_TstikAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ts03UAmOEeuhmudv_mZG2A" type="ToMultiplicity"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Ts0QRQmOEeuhmudv_mZG2A" y="529"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Ts03UQmOEeuhmudv_mZG2A" visible="false" type="ToRoleLabel" element="_TstikAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ts03UwmOEeuhmudv_mZG2A" type="ToRole"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Ts03UgmOEeuhmudv_mZG2A" y="-530"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Ts03VAmOEeuhmudv_mZG2A" visible="false" type="FromMultiplicityLabel" element="_TssUcAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ts03VgmOEeuhmudv_mZG2A" type="FromMultiplicity"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Ts03VQmOEeuhmudv_mZG2A" y="529"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Ts03VwmOEeuhmudv_mZG2A" visible="false" type="FromRoleLabel" element="_TssUcAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ts1eYAmOEeuhmudv_mZG2A" type="FromRole"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Ts03WAmOEeuhmudv_mZG2A" y="-530"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Ts1eYQmOEeuhmudv_mZG2A" type="ToQualifierLabel" element="_TstikAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_Ts1eYwmOEeuhmudv_mZG2A" type="QualifierCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Ts1eYgmOEeuhmudv_mZG2A" y="-247"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Ts1eZAmOEeuhmudv_mZG2A" type="FromQualifierLabel" element="_TssUcAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_Ts2FcAmOEeuhmudv_mZG2A" type="QualifierCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Ts1eZQmOEeuhmudv_mZG2A" y="-247"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Ts2FcQmOEeuhmudv_mZG2A" type="ToConstraintLabel" element="_TstikAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:ListCompartment" xmi:id="_Ts2FcwmOEeuhmudv_mZG2A" type="ToConstraintCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Ts2FcgmOEeuhmudv_mZG2A" y="1411"/>
+          </children>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Ts2FdAmOEeuhmudv_mZG2A" type="FromConstraintLabel" element="_TssUcAmOEeuhmudv_mZG2A">
+            <children xmi:type="notation:ListCompartment" xmi:id="_Ts2FdgmOEeuhmudv_mZG2A" type="FromConstraintCompartment"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Ts2FdQmOEeuhmudv_mZG2A" y="1411"/>
+          </children>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_TszpMQmOEeuhmudv_mZG2A" points="[-126, 1191, -18667, -1450]$[-126, 3866, -18667, 1225]$[15911, 3866, -2630, 1225]$[15911, 2596, -2630, -45]$[17222, 2596, -1319, -45]"/>
+        </edges>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_U4L3MAmOEeuhmudv_mZG2A" element="_U4FwkAmOEeuhmudv_mZG2A" source="_k6iV8AmNEeuhmudv_mZG2A" target="_gIT9EAmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_U4MeQAmOEeuhmudv_mZG2A" type="NameLabel">
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_U4MeQgmOEeuhmudv_mZG2A" type="Stereotype"/>
@@ -598,7 +748,7 @@
             <children xmi:type="notation:ListCompartment" xmi:id="_U4O6iAmOEeuhmudv_mZG2A" type="FromConstraintCompartment"/>
             <layoutConstraint xmi:type="notation:Location" xmi:id="_U4O6hwmOEeuhmudv_mZG2A" y="1411"/>
           </children>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_U4L3MQmOEeuhmudv_mZG2A" points="[-126, 1191, -18384, -499]$[-126, 4501, -18384, 2811]$[15396, 4501, -2862, 2811]$[15396, 1643, -2862, -47]$[17028, 1643, -1230, -47]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_U4L3MQmOEeuhmudv_mZG2A" points="[-126, 1191, -21554, -1450]$[-126, 4289, -21554, 1648]$[21535, 4289, 107, 1648]$[21535, 3254, 107, 613]"/>
         </edges>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_mmUPYAmaEeuhmudv_mZG2A" element="_mmNhsAmaEeuhmudv_mZG2A" source="_mplRsAmNEeuhmudv_mZG2A" target="_k6iV8AmNEeuhmudv_mZG2A" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_mmU2cAmaEeuhmudv_mZG2A" type="NameLabel">
@@ -613,9 +763,36 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_UIFecg8JEeu10up-ESM24g" type="Stereotype"/>
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_UIGFgQ8JEeu10up-ESM24g" type="Kind"/>
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_UIGFgA8JEeu10up-ESM24g" type="Name"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UIFecQ8JEeu10up-ESM24g" x="-372" y="-507"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UIFecQ8JEeu10up-ESM24g" x="-500" y="-304"/>
           </children>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UIE3YQ8JEeu10up-ESM24g" points="[631, -531, 122, 3273]$[631, -1740, 122, 2064]$[948, -1740, 439, 2064]$[948, -3296, 439, 508]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UIE3YQ8JEeu10up-ESM24g" points="[-263, -603, 2398, 4152]$[-263, -2374, 2398, 2381]$[-3139, -2374, -478, 2381]$[-3139, -4256, -478, 499]"/>
+        </edges>
+        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_UvomoA8JEeu10up-ESM24g" element="_UvmxcA8JEeu10up-ESM24g" source="_e2izMAmNEeuhmudv_mZG2A" target="_UarfwA8IEeu10up-ESM24g" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+          <children xmi:type="notation:DecorationNode" xmi:id="_UvpNsA8JEeu10up-ESM24g" type="KindLabel">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Uvp0wA8JEeu10up-ESM24g" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Uvqb0A8JEeu10up-ESM24g" type="Kind"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Uvp0wQ8JEeu10up-ESM24g" type="Name"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UvpNsQ8JEeu10up-ESM24g" x="-1017" y="-858"/>
+          </children>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UvomoQ8JEeu10up-ESM24g" points="[-252, -649, -478, 4106]$[-252, -4256, -478, 499]"/>
+        </edges>
+        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_VgPkMA8JEeu10up-ESM24g" element="_VgNH8A8JEeu10up-ESM24g" source="_Y5Lc4AmNEeuhmudv_mZG2A" target="_UarfwA8IEeu10up-ESM24g" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+          <children xmi:type="notation:DecorationNode" xmi:id="_VgPkMg8JEeu10up-ESM24g" type="KindLabel">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_VgPkNA8JEeu10up-ESM24g" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_VgQLQQ8JEeu10up-ESM24g" type="Kind"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_VgQLQA8JEeu10up-ESM24g" type="Name"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VgPkMw8JEeu10up-ESM24g" x="-2392" y="-1467"/>
+          </children>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VgPkMQ8JEeu10up-ESM24g" points="[1158, -318, -1569, 7924]$[6976, -318, 4249, 7924]$[6976, -7977, 4249, 265]$[3700, -7977, 973, 265]"/>
+        </edges>
+        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_X8QToA8JEeu10up-ESM24g" element="_X8N3YA8JEeu10up-ESM24g" source="_T7py8AmNEeuhmudv_mZG2A" target="_UarfwA8IEeu10up-ESM24g" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+          <children xmi:type="notation:DecorationNode" xmi:id="_X8Q6sA8JEeu10up-ESM24g" type="KindLabel">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_X8Q6sg8JEeu10up-ESM24g" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_X8RhwQ8JEeu10up-ESM24g" type="Kind"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_X8RhwA8JEeu10up-ESM24g" type="Name"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X8Q6sQ8JEeu10up-ESM24g" x="127" y="-1467"/>
+          </children>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_X8QToQ8JEeu10up-ESM24g" points="[941, -464, -5485, 7144]$[10675, -464, 4249, 7144]$[10675, -7343, 4249, 265]$[7399, -7343, 973, 265]"/>
         </edges>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_cAF8gA8JEeu10up-ESM24g" element="_cAEHUA8JEeu10up-ESM24g" source="_cNCaUAmNEeuhmudv_mZG2A" target="_UarfwA8IEeu10up-ESM24g" fontName=".AppleSystemUIFont" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_cAGjkA8JEeu10up-ESM24g" type="KindLabel">
@@ -714,43 +891,43 @@
     </packageImport>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_FSfxMAmNEeuhmudv_mZG2A" name="RemoveMessage">
       <ownedComment xmi:id="_SZJEEAmdEeuhmudv_mZG2A" annotatedElement="_FSfxMAmNEeuhmudv_mZG2A">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, an administrator can remove an offensive message from any user.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor: Administrator&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: Login use case is done&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: Display messages submitted for review&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: Select a message&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. Actor: Choose to remove message&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. System: Removes message&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Postcondition: One less message in the system.&lt;br>&lt;/span>&lt;/p>&lt;p>&lt;/p></body>
+        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, an administrator can remove an offensive message from any user.&lt;/span>&lt;/p></body>
       </ownedComment>
       <include xmi:id="_1sQ_wA8JEeu10up-ESM24g" addition="_UYrUoA8IEeu10up-ESM24g"/>
     </packagedElement>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_IrrTgAmNEeuhmudv_mZG2A" name="BanFromGroup">
       <ownedComment xmi:id="_YfohMAmdEeuhmudv_mZG2A" annotatedElement="_IrrTgAmNEeuhmudv_mZG2A">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actors: Administrator, User&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: Login use case is done&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 1: User is Group Creator or Actor is Admin&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. Actor: Clicks on user actor wants to ban.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. System: Displays possible actions.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. Actor: Clicks ban user.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. System: Checks if user is group creator or administrator&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>5. System: Bans user from group&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Post condition: User is removed from group&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 2: User is not Group Creator or Actor is not Admin&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. Actor: Clicks on user actor wants to ban.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. System: Displays possible actions.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. Actor: Clicks ban user.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. System: Checks if user is group creator or administrator&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>5. System: Does nothing.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Postcondition: no state change.&lt;br>&lt;/span>&lt;/p>&lt;p>&lt;/p></body>
+        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, an administrator can ban any user from any group that user is in.&lt;/span>&lt;/p></body>
       </ownedComment>
       <include xmi:id="_u9TNYA8JEeu10up-ESM24g" addition="_UYrUoA8IEeu10up-ESM24g"/>
     </packagedElement>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_KKyV0AmNEeuhmudv_mZG2A" name="RemoveUser">
       <ownedComment xmi:id="_XGgyIAmdEeuhmudv_mZG2A" annotatedElement="_KKyV0AmNEeuhmudv_mZG2A">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, an administrator can remove any user account from the application.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor: Administrator&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: Login use case is done&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 1: Delete user from the system&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: Display list of users&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: Select a user&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. System: Display confirmation prompt&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. Actor: select to confirm&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. System: Deletes the selected user from the system&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Postcondition: One user has been removed from the system.&lt;/span>&lt;/p></body>
+        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, an administrator can remove any user account from the application.&lt;/span>&lt;/p></body>
       </ownedComment>
       <include xmi:id="_yzolwA8JEeu10up-ESM24g" addition="_UYrUoA8IEeu10up-ESM24g"/>
     </packagedElement>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_LdsvMAmNEeuhmudv_mZG2A" name="SendMessage">
       <ownedComment xmi:id="_c9P8AAmdEeuhmudv_mZG2A" annotatedElement="_LdsvMAmNEeuhmudv_mZG2A">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, a user or administrator can send a message to a selected friend or group.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor: User or Administrator&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: Login use case is done.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: Displays current messages&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. System: Displays field to input text into&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. Actor: Types in message, hits enter.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. System: Displays message to receiver(s)&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Postcondition: New message added to history.&lt;br>&lt;/span>&lt;/p>&lt;p>&lt;/p></body>
+        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, a user can send a message to users they are friends with or groups they are apart of.&lt;/span>&lt;/p></body>
       </ownedComment>
       <include xmi:id="_mTQOYA8JEeu10up-ESM24g" addition="_UYrUoA8IEeu10up-ESM24g"/>
     </packagedElement>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_Mn1AAAmNEeuhmudv_mZG2A" name="DeleteMessage">
       <ownedComment xmi:id="_gECt0AmdEeuhmudv_mZG2A" annotatedElement="_Mn1AAAmNEeuhmudv_mZG2A">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, a user can delete any message they have sent.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor: User&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: Login use case is done&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 1: Deletion of own message is successful&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: Displays messages&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: Select message sent by themselves&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. Actor: Choose to delete selected message&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. System: Deletes message&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Postcondition: One less message in the system.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 2: Requested deletion of another user message&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: Displays messages&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: Select message sent by another user&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. Actor: Choose to delete selected message&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. System: Sends message to Administrator for review&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Postcondition: No system change&lt;br>&lt;/span>&lt;/p>&lt;p>&lt;/p></body>
+        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, a user can delete any message they have sent.&lt;/span>&lt;/p></body>
       </ownedComment>
       <include xmi:id="_pyGT0A8JEeu10up-ESM24g" addition="_UYrUoA8IEeu10up-ESM24g"/>
     </packagedElement>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_QbamYAmNEeuhmudv_mZG2A" name="ViewMessage">
       <ownedComment xmi:id="_iD1bUAmdEeuhmudv_mZG2A" annotatedElement="_QbamYAmNEeuhmudv_mZG2A">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, a user can view a message which has been sent to them, or to a group they are a part of.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor: User&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: Login use case is done&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-system Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: displays the list of users&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: clicks on one of the users from the list to view messages&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. System: displays the messages&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Postcondition: no system change&lt;br>&lt;/span>&lt;/p>&lt;p>&lt;/p></body>
+        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, a user can view a message which has been sent to them, or to a group they are a part of.&lt;/span>&lt;/p></body>
       </ownedComment>
       <include xmi:id="_fyblsA8JEeu10up-ESM24g" addition="_UYrUoA8IEeu10up-ESM24g"/>
     </packagedElement>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_SrcvUAmNEeuhmudv_mZG2A" name="SearchUser">
       <ownedComment xmi:id="_lx5BcAmdEeuhmudv_mZG2A" annotatedElement="_SrcvUAmNEeuhmudv_mZG2A">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, a user can search for other users on the application.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor: User or Administrator&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: Login use case is done&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 1: User exists in the system&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: Display search field and list of users&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: Enter name of a user&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. System: Check that user exists (ok)&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. System: Display user details&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Postcondition: No system state change&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 2: User does not exist&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: Display search field and list of users&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: Enter name of a user&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. System: Check that user does not exist (ok)&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. System: Display message indicating that the user does not exist&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Postcondition: No system state change&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 3: Select user from list&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: Display Search field and list of users &lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: Select user from list&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. System: Display user details &lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Postcondition: No system state change&lt;/span>&lt;/p>&lt;p>&lt;/p></body>
+        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, a user can search for other users on the application.&lt;/span>&lt;/p></body>
       </ownedComment>
       <include xmi:id="_swhz0A8JEeu10up-ESM24g" addition="_UYrUoA8IEeu10up-ESM24g"/>
     </packagedElement>
@@ -768,19 +945,19 @@
     </packagedElement>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_atprMAmNEeuhmudv_mZG2A" name="CreateGroup">
       <ownedComment xmi:id="_woCEkAmdEeuhmudv_mZG2A" annotatedElement="_atprMAmNEeuhmudv_mZG2A">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>A user will be able to create a group in which other users can join into as well&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor: User, Admin&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: Login use case is done&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: Display dialog UI to fill in group details&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: Fill in required group details as per the dialog fields&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. System: Creates a new group&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Post-condition: A new group is created and added into the system&lt;br>&lt;/span>&lt;/p>&lt;p>&lt;/p></body>
+        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, a user can create a group of multiple users that they are friends with.&lt;/span>&lt;/p></body>
       </ownedComment>
       <include xmi:id="_cqHw8A8JEeu10up-ESM24g" addition="_UYrUoA8IEeu10up-ESM24g"/>
     </packagedElement>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_cM_-EAmNEeuhmudv_mZG2A" name="JoinGroup">
       <ownedComment xmi:id="_zOxdUAmdEeuhmudv_mZG2A" annotatedElement="_cM_-EAmNEeuhmudv_mZG2A">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>A user will have the ability to join a group depending on the group’s privacy setting (Public or Private).&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 1: Public Group&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor: User&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: Login use case is done&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: Display a list of available groups to join&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: Click on a group from the list that the user wishes to join&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. System: Display group details alongside a ‘join’ button&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. Actor: Click on ‘join’ button&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Post-condition: User is now added into the group&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 2: Private Group&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor: User&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: Login use case is done&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: Display a list of available groups to join&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: Click on a group from the list that user wishes to join&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. System: Display group details alongside a ‘join’ button&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. Actor: Click on ‘join’ button&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>5. System: Send a request to join to the group admin/owner.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>6. System: Display message that a request has been sent&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Post-condition: none&lt;br>&lt;/span>&lt;/p>&lt;p>&lt;/p></body>
+        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, a user can join a pre-created group even if they are not friends with all of the members.&lt;/span>&lt;/p></body>
       </ownedComment>
       <include xmi:id="_cAEHUA8JEeu10up-ESM24g" addition="_UYrUoA8IEeu10up-ESM24g"/>
     </packagedElement>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_di3k0AmNEeuhmudv_mZG2A" name="CreateAccount">
       <ownedComment xmi:id="_18m8kAmdEeuhmudv_mZG2A" annotatedElement="_di3k0AmNEeuhmudv_mZG2A">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, a user can create a personal account which can be found by other users with the search function.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 1: Successful&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor: User&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: none&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: displays the form to fill the details for the user&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: inputs the details&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. System: displays the confirmation for successfully creating an account&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Postcondition: one new account added to the system&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 2: Unsuccessful&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor: User&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: none&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: displays the form to fill the details for the user&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: inputs the details&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. System: displays an error because the email is already taken&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Postcondition: no change in the system&lt;br>&lt;/span>&lt;/p>&lt;p>&lt;/p></body>
+        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, a user can create a personal account which can be found by other users with the search function.&lt;/span>&lt;/p></body>
       </ownedComment>
       <extend xmi:id="_BjivwA8KEeu10up-ESM24g" extendedCase="_UYrUoA8IEeu10up-ESM24g" extensionLocation="_Bjj94A8KEeu10up-ESM24g"/>
     </packagedElement>
@@ -792,7 +969,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_gIRg0AmNEeuhmudv_mZG2A" name="LeaveGroup">
       <ownedComment xmi:id="_6rz2oAmdEeuhmudv_mZG2A" annotatedElement="_gIRg0AmNEeuhmudv_mZG2A">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, user can leave a group.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor: User, Administrator&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Case 1: User removes themselves from group&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Precondition: Login use case is done&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>1. System: Display a list of groups the user is in.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>2. Actor: Click on a group from the list&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>3. System: Display confirmation prompt&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>4. Actor: Provides confirmation&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>5. System: Removes user from the group&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Post-condition: User is now added into the group&lt;/span>&lt;/p></body>
+        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, user can leave a group.&lt;/span>&lt;/p></body>
       </ownedComment>
       <include xmi:id="_UIB0EA8JEeu10up-ESM24g" addition="_UYrUoA8IEeu10up-ESM24g"/>
     </packagedElement>
@@ -943,7 +1120,7 @@
     <packagedElement xmi:type="uml:Realization" xmi:id="_YmL8gAmaEeuhmudv_mZG2A" supplier="_k6QCEAmNEeuhmudv_mZG2A" client="_mpi1cAmNEeuhmudv_mZG2A"/>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_UYrUoA8IEeu10up-ESM24g" name="Login">
       <ownedComment xmi:id="_5kSIQA8LEeu10up-ESM24g" annotatedElement="_UYrUoA8IEeu10up-ESM24g">
-        <body>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>Using this use case, a user can login using a pre-existing account.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>Actor: User, Administrator&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>Precondition: None.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>Case 1: Successful&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>1.        System: Displays login prompt.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>2.        Actor: Inputs login credentials.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>3.        System: Checks if creds are valid.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>4.        System: Log in.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>5.        System: Changes failed login count to 0.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>Postcondition: User is logged in.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>Case 2:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>Actor-System Interaction:&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>1.        System: Displays login prompt.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>2.        Actor: Inputs login credentials&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>3.        System: Checks credentials.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>4.        System: Fails login&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>5.        System: Clears User/Pass fields.&lt;/span>&lt;/p>&lt;p>&lt;span style=&quot;font-size:12pt;font-family:Tahoma;&quot;>Postcondition: Add 1 to login count failed.&lt;/span>&lt;/p></body>
+        <body>&lt;p>&lt;span style=&quot;font-size:12pt;&quot;>Using this use case, users can log into the system.s&lt;/span>&lt;/p></body>
       </ownedComment>
       <include xmi:id="_c_jq4A8IEeu10up-ESM24g" addition="_gIRg0AmNEeuhmudv_mZG2A"/>
       <extensionPoint xmi:id="_Bjj94A8KEeu10up-ESM24g" name="ExtensionPoint1"/>
