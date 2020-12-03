@@ -101,7 +101,7 @@ public class DataManager {
 			Statement st = connection.createStatement();
 			
 			//create query string
-			String sqlQuery = "select * from users where username = " + adminID + ";";
+			String sqlQuery = "select * from users where username = " + groupID + ";";
 			
 			//execute SQL query
 			ResultSet rs = st.executeQuery(sqlQuery);
