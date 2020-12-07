@@ -1,45 +1,9 @@
-import javax.
-swing.*;
-class loginControl extends Frame implements WindowListener,ActionListener{
-	public static void main(String args[]){
+
+class loginControl{
+	private DataManager dataManager;
 	
-		String s_pw; 
-		
-		JFrame frame = new JFrame("Login Module");
-		frame.setDefaultCloseOperation(JFrame..EXIT_ON_CLOSE);
-		frame.setSize(400,400);
-		
-		/* Create Username Label and text field */
-		JLabel label_Username = new JLabel("Username: ");
-		JTextField textField_Username = new JTextField(50);
-		
-		/* Create Password Label and text field */
-		JLabel label_Password = new JLabel("Password: ");
-		JPasswordField textField_Password = new JPasswordField(64);
-		
-		JButton btn_CheckCreds = new JButton("Authenticate");
-		btn_CheckCreds.addActionListener(new ActionListener(){
-			public void actionPerformed(ActionEvent e){
-				s_pw = new String(textField_Password.getPassword());
-			}
-		});
-		
-		String hash = convertPassword(s_pw);
-		
-		/* Reset password in memory to null */
-		s_pw = NULL;
-		
-		
-		
-		
-	}
-	
-	public bool checkUsername(String username){
-		
-	}
-	
-	public bool checkPassword(String username, String hash){
-	
+	public bool checkUsername(String userID, String sha1){
+		return dataManager.login(userID, sha1);
 	}
 	
 	public String convertPassword(String password){
@@ -57,17 +21,9 @@ class loginControl extends Frame implements WindowListener,ActionListener{
 		return hex.toString();
 	}
 	
-	public DataManager() {
-		 try {
-	         Class.forName("com.mysql.jdbc.Driver").newInstance();
-	     } catch (Exception e) {
-	      System.err.println(e.toString());
-	     }
-		String url = "jdbc:mysql://<server host>:3306/<DBName>";
-		try {
-		connection = DriverManager.getConnection(url, "your-login-ID", "your-MySQL-password");
-		} catch (SQLException e) {
-		System.err.println("Database connection error.");
-		}
+	public UserAccount getUserObject(String userID){
+		return dataManager.getUserObject(userID);
 	}
+	
+	
 }

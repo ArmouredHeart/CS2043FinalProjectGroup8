@@ -17,6 +17,7 @@ public class DataManager {
 		}
 	}
 	
+	/* Get Objects */
 	public UserAccount getUserObject(String userID) {
 		UserAccount user = new UserAccount();
 		try {
@@ -119,5 +120,26 @@ public class DataManager {
 		}
 		
 		return fr;
+	}
+	
+	public int login(String userID, String sha1){
+		int total = 0;
+		try {
+			Statement st = connection.createStatement();
+
+			// create query string
+			String sqlQuery = "select count(*) AS total from CustomerAccount where ";
+			sqlQuery = sqlQuery + "id='" + userid + "' and password='" + sha1 + "';";
+
+			// execute SQL query
+			System.out.println(sqlQuery);
+			ResultSet rs = st.executeQuery(sqlQuery);
+			rs.next();
+			total = rs.getInt("total");
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+
+		return total;
 	}
 }
